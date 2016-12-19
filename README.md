@@ -1,5 +1,5 @@
-# The Hierarchy of Incident Response Capabilities
-The Hierarchy of Incident Response Capabilities is modeled after [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). It describes the capabilities that organizations must build to defend their business assets. Bottom capabilities are prerequisites for successful execution of the capabilities above them:
+# The Incident Response Hierarchy of Needs
+The Incident Response Hierarchy is modeled after [Maslow's Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). It describes the capabilities that organizations must build to defend their business assets. Bottom capabilities are prerequisites for successful execution of the capabilities above them:
 <img alt="Hierarchy with explanations" src="https://raw.githubusercontent.com/swannman/ircapabilities/master/hierarchy.png" />
 
 The capabilities may also be organized into plateaus or phases that organizations may experience as they develop these capabilities:
